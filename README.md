@@ -13,8 +13,6 @@
 
 ![ROHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROHIT-ROSHAN&show_icons=true&theme=aura)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ROHIT-ROSHAN&theme=highcontrast)
-
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ROHIT-ROSHAN&count_private=true&show_icons=true&theme=aura)
 
 ## Top Languages 🚀
@@ -40,4 +38,4 @@
 
 - Summer Intern, Kyndryl (July 2022 - August 2022)
   - Developed database schema and front-end for a Kyndryl project aimed at talent utilization across multiple departments. Collaborated with the design team to ensure a user-friendly interface. -MongoDB,Django Rest Framework,Html,Css.
-- Converted network firewall rules from Checkpoint to Cisco ASA format using Python's xml.etree.ElementTree module for XML to JSON transformation. Provided JSON output to network engineers for further Cisco ASA conversion. -Python
+  - Converted network firewall rules from Checkpoint to Cisco ASA format using Python's xml.etree.ElementTree module for XML to JSON transformation. Provided JSON output to network engineers for further Cisco ASA conversion. -Python
