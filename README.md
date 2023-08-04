@@ -13,7 +13,6 @@
 
 ![ROHIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROHIT-ROSHAN&show_icons=true&theme=aura)
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ROHIT-ROSHAN&count_private=true&show_icons=true&theme=aura)
 
 ## Top Languages 🚀
 
