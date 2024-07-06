@@ -2,11 +2,10 @@
 
 ## About me 💬 :
 
-- 🌱 I’m currently a student at PES University
+- 🌱 I’m currently working at Secpod Technologies as a AI ML ENGINEER
 - 👯 I’m happy to collaborate & work with open source
 - 💬 Keen interest in Data Science, Cloud Computing, Big Data, Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-roshan-4b8a35b8/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love spotting aeroplanes
 - 💻 Personal Portfolio : [Portfolio](http://rohitroshan.com/)
 
