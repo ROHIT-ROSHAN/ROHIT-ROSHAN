@@ -7,7 +7,7 @@
 - 💬 Keen interest in Data Science, Cloud Computing, Big Data, Web Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-roshan-4b8a35b8/)
 - ⚡ Fun fact: I love spotting aeroplanes
-- 💻 Personal Portfolio : [Portfolio](http://rohitroshan.com/)
+
 
 ## GitHub Stats 📈
 
