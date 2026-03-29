@@ -11,13 +11,9 @@
 
 ## Skills 🛠️
 
-- Data Science
-- Cloud Computing
-- Big Data
-- Web Development
-- Python, Java, JavaScript
-- HTML/CSS, React, Node.js
-- Docker, Kubernetes
+- AI & ML
+- Python
+- Django, Flask, Fast API
 
 
 ## Work Experience 💼
